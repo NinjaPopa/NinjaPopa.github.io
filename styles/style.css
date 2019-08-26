@@ -4,20 +4,20 @@ body {
 }
 p {
     color:white;
-    
+   font-size: 20px 
 }
  h1{
      color:white;
      background-color:gold;
-     
+     font-size: 60px
  }
 li{
     color:white;
-    
+    font-size: 20px
 }
 a{
     color:gold;
-    
+   font-size: 20px
 }
 
 .popa{
